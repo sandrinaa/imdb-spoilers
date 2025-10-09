@@ -1,2 +1,10 @@
-# imdb-spoilers
-CS3244 Project: Predicting Spoilers from IMDB Reviews
+Folder PATH listing for volume Windows
+Volume serial number is 0ED5-234B
+C:.
++---data
+¦   +---processed
+¦   +---raw
++---model
++---reports
+¦   +---figures
++---src
