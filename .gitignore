@@ -1,2 +1,5 @@
 /data/processed/IMDB_reviews_train_cleaned.json
 /data/processed/IMDB_reviews_test.json
+
+/data/processed/IMDB_movie_details.json
+/data/processed/IMDB_review.json
